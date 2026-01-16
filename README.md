@@ -5,6 +5,10 @@
 ![df](https://github.com/LeTuck/Tienda-de-Videojuegos/blob/images/df.png)
 
 ---
+## ⚙️ Se relaizan ajustes en la DB:
+![df](https://github.com/LeTuck/Tienda-de-Videojuegos/blob/images/df2.png)
+
+---
 ## 📊 Comportamiento de las ventas Globales
 
 ![global](https://github.com/LeTuck/Tienda-de-Videojuegos/blob/images/ventas%20globales.png)
