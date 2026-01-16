@@ -24,6 +24,3 @@ Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo,
 ## 📊 Comportamiento de las ventas Globales
 
 ![global](https://github.com/LeTuck/Tienda-de-Videojuegos/blob/images/ventas%20globales.png)
-
-
-![global2](https://github.com/LeTuck/Tienda-de-Videojuegos/blob/images/ventasglobales2.png)
