@@ -1,6 +1,6 @@
 # Tienda de Videojuegos
 ## Estrategia de ventas para el 2017 con información del ejercicio inmediato anterior. 
-### Pueden consultar el codigo completo, asi como las conclusiones en 👉 [![Google Colab ](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jQs6BuubRVCWedpsM4vMPbA_MZUGAyWS?usp=sharing)
+### [![Google Colab ](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jQs6BuubRVCWedpsM4vMPbA_MZUGAyWS?usp=sharing) Aqui se puede consultar el codigo. 
 ---
 La tienda online Ice que vende videojuegos por todo el mundo.
 
