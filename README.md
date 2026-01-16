@@ -2,4 +2,4 @@
 Estrategia de ventas para el 2017 con información del ejercicio inmediato anterior. 
 
 
-![Texto alternativo]([foto](https://github.com/LeTuck/Tienda-de-Videojuegos/blob/images/ventas%20globales.png)?raw=true)
+![]([[foto](https://github.com/LeTuck/Tienda-de-Videojuegos/blob/images/ventas%20globales.png)](https://github.com/LeTuck/Tienda-de-Videojuegos/blob/images/ventas%20globales.png)?raw=true)
