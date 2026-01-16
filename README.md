@@ -11,6 +11,8 @@ Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo,
   
   ☑ El dataset contiene una columna "rating" que almacena la clasificación ESRB de cada juego. Entertainment Software Rating Board (la Junta de clasificación de software de entretenimiento) evalúa el contenido de un juego y asigna una clasificación de edad como Adolescente o Adulto.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jQs6BuubRVCWedpsM4vMPbA_MZUGAyWS?usp=sharing))
+  
 ---
 ## 💾 Contamos con un df con las caracteristicas:
 ![df](https://github.com/LeTuck/Tienda-de-Videojuegos/blob/images/df.png)
